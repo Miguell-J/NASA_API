@@ -2,7 +2,7 @@
 
 Este é um simples script Python que utiliza a API da NASA para acessar a "Astronomy Picture of the Day" (APOD) e exibir a imagem do dia em seu navegador. A APOD é uma coleção de imagens astronômicas incríveis, acompanhadas por descrições escritas por astrônomos profissionais.
 
-
+<img src="Foto da NASA.png"/>
 
 ### Pré-requisitos
 Antes de executar este código, certifique-se de que você tenha o Python instalado em seu sistema. Além disso, você precisará de uma API Key da NASA para acessar os dados.
@@ -17,7 +17,9 @@ Navegue até o diretório onde o seu código está localizado.
 
 Execute o código Python:
 
-- $python seu_codigo.py
+```
+python seu_codigo.py
+```
 
 ### O código faz o seguinte:
 
